@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **creating multiple small open source projects with different technologies to exercise and show my skills.**
 
-- 🌱 I’m currently learning **Signal-R, Angular, Spring Boot, MongoDB.**
+- 🌱 I’m currently learning **React.**
 
 - 👯 I’m looking to collaborate on **interessting projects.**
 
